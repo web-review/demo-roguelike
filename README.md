@@ -1,3 +1,6 @@
 # demo-roguelike
 
-    w  a s d 
+    w - up 
+    s - down
+    a - left
+    d - right
