@@ -1,5 +1,5 @@
 # demo-roguelike
 
-  w
+    w
   
 a s d 
